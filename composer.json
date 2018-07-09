@@ -16,7 +16,7 @@
         "ongr/elasticsearch-dsl": "^5.0",
         "ongr/elasticsearch-bundle": "dev-6.0-dev",
         "simple-bus/symfony-bridge": "^4.1",
-        "ongr/filter-manager-bundle": "2.1.x-dev as v2.1.1",
+        "ongr/filter-manager-bundle": "dev-master",
         "ramsey/uuid": "^3.7"
     },
     "require-dev": {
